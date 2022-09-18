@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    border: white 1px solid;
+    padding: 10px 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius:  10px;
+}
+
+div.background{
+    background-image: url('earth.jpg');
+    height: 160vh;
+    background-color: black;
+    background-size:2500px;
+    background-position: left no-repeat ;
+    color: black;
+}
+
+div.header{
+
+    color: white;
+    font-family: Courier New, monospace;
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+div.border{
+    border-bottom: 3px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 40px;
+    margin-right: 950px;
+    margin-left: 30px;
+}
+
+div.aboutme{
+    color: white;
+    font-family:  Andale Mono, monospace;
+    font-size: 15px;
+    font-weight:0;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 950px;
+    margin-left: 50px;
+
+}
+
+div.pot{
+    margin-right: 950px;
+    margin-left: 130px;
+}
+
+div.aboutweb{
+
+    color: white;
+    font-family:  Andale Mono, monospace;
+    font-size: 15px;
+    
+    text-align: center;
+    margin-top: 3px;
+    margin-right: 950px;
+    margin-left: 50px;
+
+}
+
+div.backgroundsyllabus{
+    background-image: url('earth.jpg') ;
+    height: 160vh;
+    background-color: black;
+    background-size:2500px;
+    background-position: left no-repeat ;
+    color: black;
+}
+
