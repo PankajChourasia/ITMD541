@@ -165,6 +165,7 @@
 
 #transition-section .box a:hover {
 	background-color: #cc0000;
+	transition-delay: .5s;
 	color: #fff;
 
 
